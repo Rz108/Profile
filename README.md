@@ -2,7 +2,7 @@
 
 **`Student`**
 # 💫 About Me:
-Im a Student from Singapore Polytechnic, passionate in Artificial Intelligence. This is my GitHub profile to showcase some of my projects
+Im a Student from Singapore Polytechnic, passionate in Artificial Intelligence. This is my GitHub profile to showcase some of my projects. Excited to further upskill and improve on my skillset.
 
 
 # 💻 Tech Stack:
