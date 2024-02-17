@@ -22,7 +22,6 @@ Take a look at my GitHub statistics to get an overview of my contributions and t
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RZ108&theme=dark)
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=RZ108&bg_color=1C1D27&color=F85D7F&line=70A4FC&point=FFFFFF&hide_border=true)
 
 
 ### 🏆 GitHub Trophies
