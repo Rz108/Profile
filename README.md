@@ -15,7 +15,19 @@ I work with a variety of technologies to bring my ideas to life. Here are some o
 Take a look at my GitHub statistics to get an overview of my contributions and the languages I use:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RZ108&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+![RZ108's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RZ108&show_icons=true&theme=radical&count_private=true&hide=contribs)
 
----
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RZ108&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RZ108&theme=dark)
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=RZ108&bg_color=1C1D27&color=F85D7F&line=70A4FC&point=FFFFFF&hide_border=true)
+
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RZ108&theme=radical&no-frame=true&column=7)
+
 
 Proudly created with GPRM (https://gprm.itsvg.in)
