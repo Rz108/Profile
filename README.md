@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a passionate student from Singapore Polytechnic specializing in Artificial Intelligence. My journey in tech is fueled by curiosity and the relentless pursuit of knowledge. Here, I share projects that showcase my skills and continuous growth in this ever-evolving field. I'm eager to learn more, collaborate, and contribute to the tech community.
+I'm a passionate student from Singapore Polytechnic specialising in Applied AI and Analytics. My journey in tech is fueled by curiosity and the relentless pursuit of knowledge. Here, I share projects that showcase my skills and continuous growth in this ever-evolving field. I'm eager to learn more, collaborate, and contribute.
 
 ## 💻 Tech Stack
 
